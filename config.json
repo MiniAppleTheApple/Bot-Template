@@ -1,0 +1,4 @@
+{
+    "commands.prefix": "!",
+    "commands.intents": ["default"]
+}
